@@ -1,16 +1,64 @@
-# local_db_learning
+# 📝 Notes App – Flutter
 
-A new Flutter project.
+A feature-rich notes application built using **Flutter** with **SQLite** local database integration and Provider state management.
 
-## Getting Started
+The app allows users to create, search, edit, and manage notes with a modern UI and light/dark theme toggle support.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✔ Add, Edit, Delete Notes
+✔ Search Notes using Title or Content
+✔ Local Database Storage using SQLite
+✔ Global State Management using Provider
+✔ Light and Dark Theme Toggle
+✔ Smooth User Interface
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠 Technologies Used
+
+* Flutter
+* SQLite
+* Provider State Management
+* Dart Programming Language
+
+---
+
+
+
+## ⚙ Installation
+
+Clone repository:
+
+```
+git clone https://github.com/yourusername/notes-app.git
+```
+
+Go to project directory:
+
+```
+cd notes-app
+```
+
+Install dependencies:
+
+```
+flutter pub get
+```
+
+Run project:
+
+```
+flutter run
+```
+
+---
+
+## 👨‍💻 Developer
+
+Abrar Ahmed 
+GitHub: https://github.com/AbrarAhmedDev
+
+⭐ If you like this project, give a star to the repository.
